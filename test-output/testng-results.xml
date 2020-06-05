@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Execution of test method starts]]>
+    </line>
+    <line>
+      <![CDATA[execution is going on]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="189076" started-at="2020-06-05T04:21:35Z" finished-at="2020-06-05T04:24:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="189076" started-at="2020-06-05T04:21:35Z" finished-at="2020-06-05T04:24:44Z">
+      <class name="com.scripts.actitime.Test_Acti_login">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.scripts.actitime.Test_Acti_login@544a2ea6]" name="openBrowser" is-config="true" duration-ms="77609" started-at="2020-06-05T04:21:35Z" finished-at="2020-06-05T04:22:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="startExecution()[pri:0, instance:com.scripts.actitime.Test_Acti_login@544a2ea6]" name="startExecution" is-config="true" duration-ms="109483" started-at="2020-06-05T04:22:54Z" finished-at="2020-06-05T04:24:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Execution of test method starts]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startExecution -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.scripts.actitime.Test_Acti_login@544a2ea6]" name="login" duration-ms="551" started-at="2020-06-05T04:24:43Z" finished-at="2020-06-05T04:24:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[execution is going on]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.scripts.actitime.Test_Acti_login@544a2ea6]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2020-06-05T04:24:44Z" finished-at="2020-06-05T04:24:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.scripts.actitime.Test_Acti_login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
